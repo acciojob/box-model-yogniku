@@ -28,9 +28,7 @@
       border-radius: 50%;
     }
 
-    .red {
-      background-color: #e60023;
-    }
+   
 
     .green {
       background-color: #4caf50;
@@ -39,4 +37,8 @@
     .yellow {
       background-color: #ffd700;
     }
+.red {
+      background-color: #e60023;
+    }
+
 
