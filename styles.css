@@ -26,19 +26,20 @@
       width: 90px;
       height: 90px;
       border-radius:50%;
+		
     }
 
    
 
-    .green {
-      background-color: #4caf50;
+    .green { 
+      background-color: green;
     }
 
     .yellow {
-      background-color: #ffd700;
+      background-color: yellow;
     }
 .red {
-      background-color: #e60023;
+      background-color: red;
     }
 
-
+  */
